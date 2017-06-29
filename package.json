@@ -1,6 +1,6 @@
 {
   "name": "almighty-autocomplete",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "Simple to use autocomplete directive in a module for AngularJS",
   "main": "index.js",
   "scripts": {
